@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Fredoka;
+}
+
+.principale {
+    margin: 50px auto 0px;
+    width: 80%;
+    margin-top: 0px;
+}
+
+.principale h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: rgb(199, 16, 114);
+}
+
+.principale p {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    margin-top: 40px;
+    background-color: rgb(13, 13, 48);
+    width: 30%;
+}
+.flex-item img {
+    width: 100px;
+}
