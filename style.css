@@ -18,9 +18,6 @@
     color: rgb(199, 16, 114);
 }
 
-.principale p {
-    text-align: center;
-}
 
 .flex-container {
     display: flex;
